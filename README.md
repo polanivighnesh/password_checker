@@ -11,7 +11,7 @@ The password complexity is classified into four categories:
 4. **Very Strong**: Password contains uppercase letters, lowercase letters, numbers, and special characters, and is at least 16 characters long.
 
 ## Password Requirements
-- Minimum length: 12 characters
+- Minimum length: 8 characters
 - Categories:
   - Letters (Uppercase and Lowercase)
   - Numbers
